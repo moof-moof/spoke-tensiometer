@@ -21,6 +21,5 @@ The values are presented on a standard I2C driven 1602 LCD  (not shown above) in
 
 ![](img/LCD_example_x4_commented.png)
 
-Link to the project description: https://sites.google.com/site/xnebmisc/home/tensiometer
-
+Link to the project description: http://xneb.org/mabe/xnebmisc/home/tensiometer.html or https://sites.google.com/view/xneb-project-logs/home/tensiometer
 
